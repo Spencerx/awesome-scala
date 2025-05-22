@@ -92,15 +92,14 @@ Name | Description | GitHub Activity
 [etcd4s](https://github.com/mingchuno/etcd4s) | Scala etcd client implementing V3 APIs | ![GitHub stars](https://img.shields.io/github/stars/mingchuno/etcd4s) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/mingchuno/etcd4s)
 [laserdisc](https://github.com/laserdisc-io/laserdisc) | A Future-free Fs2 native pure FP Redis client | ![GitHub stars](https://img.shields.io/github/stars/laserdisc-io/laserdisc) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/laserdisc-io/laserdisc)
 [mysql-binlog-stream](https://github.com/laserdisc-io/mysql-binlog-stream) | None | ![GitHub stars](https://img.shields.io/github/stars/laserdisc-io/mysql-binlog-stream) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/laserdisc-io/mysql-binlog-stream)
+[lucene4s](https://github.com/outr/lucene4s) | Light-weight convenience wrapper around Lucene to simplify complex tasks and add Scala sugar. | ![GitHub stars](https://img.shields.io/github/stars/outr/lucene4s) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/outr/lucene4s)
 [neotypes](https://github.com/neotypes/neotypes) | Scala lightweight, type-safe, asynchronous driver for neo4j  | ![GitHub stars](https://img.shields.io/github/stars/neotypes/neotypes) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/neotypes/neotypes)
 [pulsar4s](https://github.com/CleverCloud/pulsar4s) | Idiomatic, typesafe, and reactive Scala client for Apache Pulsar | ![GitHub stars](https://img.shields.io/github/stars/CleverCloud/pulsar4s) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/CleverCloud/pulsar4s)
 [**zio-quill**](https://github.com/zio/zio-quill) | Compile-time Language Integrated Queries for Scala | ![GitHub stars](https://img.shields.io/github/stars/zio/zio-quill) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/zio/zio-quill)
 [**ReactiveMongo**](https://github.com/ReactiveMongo/ReactiveMongo) | :leaves: Non-blocking, Reactive MongoDB Driver for Scala | ![GitHub stars](https://img.shields.io/github/stars/ReactiveMongo/ReactiveMongo) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/ReactiveMongo/ReactiveMongo)
-[**rediscala**](https://github.com/etaty/rediscala) | Non-blocking, Reactive Redis driver for Scala (with Sentinel support) | ![GitHub stars](https://img.shields.io/github/stars/etaty/rediscala) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/etaty/rediscala)
 [relate](https://github.com/lucidsoftware/relate) | Performant database access in Scala | ![GitHub stars](https://img.shields.io/github/stars/lucidsoftware/relate) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/lucidsoftware/relate)
 [**sangria**](https://github.com/sangria-graphql/sangria) | Scala GraphQL implementation | ![GitHub stars](https://img.shields.io/github/stars/sangria-graphql/sangria) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/sangria-graphql/sangria)
 [scala-forklift](https://github.com/lastland/scala-forklift) | Type-safe data migration tool for Slick, Git and beyond. | ![GitHub stars](https://img.shields.io/github/stars/lastland/scala-forklift) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/lastland/scala-forklift)
-[scalarelational](https://github.com/outr/scalarelational) | Type-Safe framework for defining, modifying, and querying SQL databases | ![GitHub stars](https://img.shields.io/github/stars/outr/scalarelational) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/outr/scalarelational)
 [**scalikejdbc**](https://github.com/scalikejdbc/scalikejdbc) | A tidy SQL-based DB access library for Scala developers. This library naturally wraps JDBC APIs and provides you easy-to-use APIs. | ![GitHub stars](https://img.shields.io/github/stars/scalikejdbc/scalikejdbc) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/scalikejdbc/scalikejdbc)
 [scanamo](https://github.com/scanamo/scanamo) | Simpler DynamoDB access for Scala | ![GitHub stars](https://img.shields.io/github/stars/scanamo/scanamo) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/scanamo/scanamo)
 [**slick**](https://github.com/slick/slick) | Slick (Scala Language Integrated Connection Kit) is a modern database query and access library for Scala | ![GitHub stars](https://img.shields.io/github/stars/slick/slick) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/slick/slick)
@@ -150,7 +149,7 @@ Name | Description | GitHub Activity
 ---- | ----------- | ---------------
 [**Binding.scala**](https://github.com/ThoughtWorksInc/Binding.scala) | Reactive data-binding for Scala | ![GitHub stars](https://img.shields.io/github/stars/ThoughtWorksInc/Binding.scala) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/ThoughtWorksInc/Binding.scala)
 [udash-core](https://github.com/UdashFramework/udash-core) | Scala framework for building beautiful and maintainable web applications. | ![GitHub stars](https://img.shields.io/github/stars/UdashFramework/udash-core) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/UdashFramework/udash-core)
-[vertx-lang-scala](https://github.com/vert-x3/vertx-lang-scala) | Vert.x for Scala | ![GitHub stars](https://img.shields.io/github/stars/vert-x3/vertx-lang-scala) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/vert-x3/vertx-lang-scala)
+[vertx-lang-scala](https://github.com/reactiverse/vertx-lang-scala) | Vert.x for Scala | ![GitHub stars](https://img.shields.io/github/stars/reactiverse/vertx-lang-scala) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/reactiverse/vertx-lang-scala)
 
 ### Data Binding and Validation
 
@@ -158,7 +157,6 @@ Name | Description | GitHub Activity
 
 Name | Description | GitHub Activity
 ---- | ----------- | ---------------
-[dupin](https://github.com/yakivy/dupin) | Minimal, idiomatic, customizable validation Scala library. | ![GitHub stars](https://img.shields.io/github/stars/yakivy/dupin) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/yakivy/dupin)
 [octopus](https://github.com/krzemin/octopus) | Scala library for boilerplate-free validation | ![GitHub stars](https://img.shields.io/github/stars/krzemin/octopus) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/krzemin/octopus)
 
 ### i18n
@@ -167,7 +165,6 @@ Name | Description | GitHub Activity
 
 Name | Description | GitHub Activity
 ---- | ----------- | ---------------
-[scaposer](https://github.com/xitrum-framework/scaposer) | GNU Gettext .po file loader for Scala | ![GitHub stars](https://img.shields.io/github/stars/xitrum-framework/scaposer) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/xitrum-framework/scaposer)
 
 ### Authentication
 
@@ -177,7 +174,6 @@ Name | Description | GitHub Activity
 ---- | ----------- | ---------------
 [play-googleauth](https://github.com/guardian/play-googleauth) | Simple play module for authenticating against Google | ![GitHub stars](https://img.shields.io/github/stars/guardian/play-googleauth) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/guardian/play-googleauth)
 [play-pac4j](https://github.com/pac4j/play-pac4j) | Security library for Play framework 2 in Java and Scala: OAuth, CAS, SAML, OpenID Connect, LDAP, JWT... | ![GitHub stars](https://img.shields.io/github/stars/pac4j/play-pac4j) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/pac4j/play-pac4j)
-[**scala-oauth2-provider**](https://github.com/nulab/scala-oauth2-provider) | OAuth 2.0 server-side implementation written in Scala | ![GitHub stars](https://img.shields.io/github/stars/nulab/scala-oauth2-provider) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/nulab/scala-oauth2-provider)
 
 ### Cryptography
 
@@ -201,7 +197,7 @@ Name | Description | GitHub Activity
 [mockito-scala](https://github.com/mockito/mockito-scala) | Mockito for Scala language | ![GitHub stars](https://img.shields.io/github/stars/mockito/mockito-scala) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/mockito/mockito-scala)
 [munit](https://github.com/scalameta/munit) | Scala testing library with actionable errors and extensible APIs | ![GitHub stars](https://img.shields.io/github/stars/scalameta/munit) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/scalameta/munit)
 [**scalacheck**](https://github.com/typelevel/scalacheck) | Property-based testing for Scala | ![GitHub stars](https://img.shields.io/github/stars/typelevel/scalacheck) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/typelevel/scalacheck)
-[**ScalaMock**](https://github.com/paulbutcher/ScalaMock) | Native Scala mocking framework | ![GitHub stars](https://img.shields.io/github/stars/paulbutcher/ScalaMock) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/paulbutcher/ScalaMock)
+[**scalamock**](https://github.com/scalamock/scalamock) | Native Scala mocking framework | ![GitHub stars](https://img.shields.io/github/stars/scalamock/scalamock) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/scalamock/scalamock)
 [scalaprops](https://github.com/scalaprops/scalaprops) | property based testing library for Scala | ![GitHub stars](https://img.shields.io/github/stars/scalaprops/scalaprops) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/scalaprops/scalaprops)
 [**scalatest**](https://github.com/scalatest/scalatest) | A testing tool for Scala and Java developers | ![GitHub stars](https://img.shields.io/github/stars/scalatest/scalatest) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/scalatest/scalatest)
 [**specs2**](https://github.com/etorreborre/specs2) | Software Specifications for Scala | ![GitHub stars](https://img.shields.io/github/stars/etorreborre/specs2) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/etorreborre/specs2)
@@ -227,7 +223,6 @@ Name | Description | GitHub Activity
 [ninny-json](https://github.com/nrktkt/ninny-json) | JSON typeclasses that know the difference between null and absent fields | ![GitHub stars](https://img.shields.io/github/stars/nrktkt/ninny-json) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/nrktkt/ninny-json)
 [play-json](https://github.com/playframework/play-json) | The Play JSON library | ![GitHub stars](https://img.shields.io/github/stars/playframework/play-json) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/playframework/play-json)
 [ScalaJack](https://github.com/gzoller/ScalaJack) | Fast JSON parser/generator for Scala | ![GitHub stars](https://img.shields.io/github/stars/gzoller/ScalaJack) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/gzoller/ScalaJack)
-[**spray-json**](https://github.com/spray/spray-json) | A lightweight, clean and simple JSON implementation in Scala | ![GitHub stars](https://img.shields.io/github/stars/spray/spray-json) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/spray/spray-json)
 [tupson](https://github.com/sake92/tupson) | Stupid simple Scala 3 library for writing and reading JSON | ![GitHub stars](https://img.shields.io/github/stars/sake92/tupson) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/sake92/tupson)
 [zio-json](https://github.com/zio/zio-json) | Fast, secure JSON library with tight ZIO integration. | ![GitHub stars](https://img.shields.io/github/stars/zio/zio-json) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/zio/zio-json)
 
@@ -270,7 +265,8 @@ Name | Description | GitHub Activity
 Name | Description | GitHub Activity
 ---- | ----------- | ---------------
 [**algebird**](https://github.com/twitter/algebird) | Abstract Algebra for Scala | ![GitHub stars](https://img.shields.io/github/stars/twitter/algebird) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/twitter/algebird)
-[**ipex-llm**](https://github.com/intel-analytics/ipex-llm) | Accelerate local LLM inference and finetuning (LLaMA, Mistral, ChatGLM, Qwen, Baichuan, Mixtral, Gemma, Phi, MiniCPM, etc.) on Intel XPU (e.g., local PC with iGPU and NPU, discrete GPU such as Arc, Flex and Max); seamlessly integrate with llama.cpp, Ollama, HuggingFace, LangChain, LlamaIndex, GraphRAG, DeepSpeed, vLLM, FastChat, Axolotl, etc. | ![GitHub stars](https://img.shields.io/github/stars/intel-analytics/ipex-llm) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/intel-analytics/ipex-llm)
+[axle](https://github.com/pingel-org/axle) | Axle Domain Specific Language for Scientific Cloud Computing and Visualization | ![GitHub stars](https://img.shields.io/github/stars/pingel-org/axle) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/pingel-org/axle)
+[**ipex-llm**](https://github.com/intel/ipex-llm) | Accelerate local LLM inference and finetuning (LLaMA, Mistral, ChatGLM, Qwen, DeepSeek, Mixtral, Gemma, Phi, MiniCPM, Qwen-VL, MiniCPM-V, etc.) on Intel XPU (e.g., local PC with iGPU and NPU, discrete GPU such as Arc, Flex and Max); seamlessly integrate with llama.cpp, Ollama, HuggingFace, LangChain, LlamaIndex, vLLM, DeepSpeed, Axolotl, etc. | ![GitHub stars](https://img.shields.io/github/stars/intel/ipex-llm) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/intel/ipex-llm)
 [**breeze**](https://github.com/scalanlp/breeze) | Breeze is/was a numerical processing library for Scala. | ![GitHub stars](https://img.shields.io/github/stars/scalanlp/breeze) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/scalanlp/breeze)
 [doddle-model](https://github.com/picnicml/doddle-model) | :cake: doddle-model: machine learning in Scala. | ![GitHub stars](https://img.shields.io/github/stars/picnicml/doddle-model) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/picnicml/doddle-model)
 [libra](https://github.com/to-ithaca/libra) | A dimensional analysis library based on dependent types | ![GitHub stars](https://img.shields.io/github/stars/to-ithaca/libra) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/to-ithaca/libra)
@@ -282,7 +278,6 @@ Name | Description | GitHub Activity
 [openmole](https://github.com/openmole/openmole) | Workflow engine for exploration of simulation models using high throughput computing | ![GitHub stars](https://img.shields.io/github/stars/openmole/openmole) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/openmole/openmole)
 [Optimus](https://github.com/vagmcs/Optimus) | Optimus is a mathematical programming library for Scala. | ![GitHub stars](https://img.shields.io/github/stars/vagmcs/Optimus) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/vagmcs/Optimus)
 [OscaR](https://bitbucket.org/oscarlib/oscar/wiki/Home) | a Scala toolkit for solving Operations Research problems |
-[rings](https://github.com/PoslavskySV/rings) | Rings: efficient JVM library for polynomial rings | ![GitHub stars](https://img.shields.io/github/stars/PoslavskySV/rings) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/PoslavskySV/rings)
 [**smile**](https://github.com/haifengl/smile) | Statistical Machine Intelligence & Learning Engine | ![GitHub stars](https://img.shields.io/github/stars/haifengl/smile) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/haifengl/smile)
 [**spire**](https://github.com/typelevel/spire) | Powerful new number types and numeric abstractions for Scala. | ![GitHub stars](https://img.shields.io/github/stars/typelevel/spire) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/typelevel/spire)
 [**squants**](https://github.com/typelevel/squants) | The Scala API for Quantities, Units of Measure and Dimensional Analysis | ![GitHub stars](https://img.shields.io/github/stars/typelevel/squants) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/typelevel/squants)
@@ -301,7 +296,6 @@ Name | Description | GitHub Activity
 [**scio**](https://github.com/spotify/scio) | A Scala API for Apache Beam and Google Cloud Dataflow. | ![GitHub stars](https://img.shields.io/github/stars/spotify/scio) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/spotify/scio)
 [Scrunch](http://crunch.apache.org/scrunch.html) | A Scala wrapper for [Apache Crunch](http://crunch.apache.org/index.html) which provides a framework for writing, testing, and running MapReduce pipelines. |
 [**spark**](https://github.com/apache/spark) | Apache Spark - A unified analytics engine for large-scale data processing | ![GitHub stars](https://img.shields.io/github/stars/apache/spark) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/apache/spark)
-[gallia-core](https://github.com/galliaproject/gallia-core) | A schema-aware Scala library for data transformation | ![GitHub stars](https://img.shields.io/github/stars/galliaproject/gallia-core) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/galliaproject/gallia-core)
 [**nussknacker**](https://github.com/TouK/nussknacker) | Low-code tool for automating actions on real time data | Stream processing for the users. | ![GitHub stars](https://img.shields.io/github/stars/TouK/nussknacker) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/TouK/nussknacker)
 
 ### Command Line Interfaces
@@ -340,7 +334,7 @@ Name | Description | GitHub Activity
 [**monix**](https://github.com/monix/monix) | Asynchronous, Reactive Programming for Scala and Scala.js. | ![GitHub stars](https://img.shields.io/github/stars/monix/monix) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/monix/monix)
 [REScala](https://github.com/rescala-lang/REScala) | REScala - distributed and reactive programming embedded in OO and FP programs. | ![GitHub stars](https://img.shields.io/github/stars/rescala-lang/REScala) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/rescala-lang/REScala)
 [**zio**](https://github.com/zio/zio) | ZIO — A type-safe, composable library for async and concurrent programming in Scala | ![GitHub stars](https://img.shields.io/github/stars/zio/zio) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/zio/zio)
-[vertx-lang-scala](https://github.com/vert-x3/vertx-lang-scala) | Vert.x for Scala | ![GitHub stars](https://img.shields.io/github/stars/vert-x3/vertx-lang-scala) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/vert-x3/vertx-lang-scala)
+[vertx-lang-scala](https://github.com/reactiverse/vertx-lang-scala) | Vert.x for Scala | ![GitHub stars](https://img.shields.io/github/stars/reactiverse/vertx-lang-scala) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/reactiverse/vertx-lang-scala)
 
 ### Modularization and Dependency Injection
 
@@ -352,7 +346,6 @@ Name | Description | GitHub Activity
 [**izumi**](https://github.com/7mind/izumi) | Productivity-oriented collection of lightweight fancy stuff for Scala toolchain | ![GitHub stars](https://img.shields.io/github/stars/7mind/izumi) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/7mind/izumi)
 [**macwire**](https://github.com/softwaremill/macwire) | Zero-cost, compile-time, type-safe dependency injection library. | ![GitHub stars](https://img.shields.io/github/stars/softwaremill/macwire) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/softwaremill/macwire)
 [scaldi](https://github.com/scaldi/scaldi) | Lightweight Scala Dependency Injection Library | ![GitHub stars](https://img.shields.io/github/stars/scaldi/scaldi) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/scaldi/scaldi)
-[jam](https://github.com/yakivy/jam) | Incredibly simple DI Scala library. | ![GitHub stars](https://img.shields.io/github/stars/yakivy/jam) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/yakivy/jam)
 
 ### Distributed Systems
 
@@ -360,7 +353,7 @@ Name | Description | GitHub Activity
 
 Name | Description | GitHub Activity
 ---- | ----------- | ---------------
-[**akka**](https://github.com/akka/akka) | Build highly concurrent, distributed, and resilient message-driven applications on the JVM | ![GitHub stars](https://img.shields.io/github/stars/akka/akka) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/akka/akka)
+[**akka**](https://github.com/akka/akka) | A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments. | ![GitHub stars](https://img.shields.io/github/stars/akka/akka) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/akka/akka)
 [annette](https://github.com/annetteplatform/annette) | Platform to build distributed, scalable, enterprise-wide business applications | ![GitHub stars](https://img.shields.io/github/stars/annetteplatform/annette) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/annetteplatform/annette)
 [**finagle**](https://github.com/twitter/finagle) | A fault tolerant, protocol-agnostic RPC system | ![GitHub stars](https://img.shields.io/github/stars/twitter/finagle) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/twitter/finagle)
 [poppet](https://github.com/yakivy/poppet) | Minimal, type-safe RPC Scala library. | ![GitHub stars](https://img.shields.io/github/stars/yakivy/poppet) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/yakivy/poppet)
@@ -383,7 +376,6 @@ Name | Description | GitHub Activity
 [**eff**](https://github.com/atnos-org/eff) | Eff monad for cats - https://atnos-org.github.io/eff | ![GitHub stars](https://img.shields.io/github/stars/atnos-org/eff) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/atnos-org/eff)
 [enableIf.scala](https://github.com/ThoughtWorksInc/enableIf.scala) | A library that toggles Scala code at compile-time, like #if in C/C++ | ![GitHub stars](https://img.shields.io/github/stars/ThoughtWorksInc/enableIf.scala) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/ThoughtWorksInc/enableIf.scala)
 [**enumeratum**](https://github.com/lloydmeta/enumeratum) | A type-safe, reflection-free, powerful enumeration implementation for Scala with exhaustive pattern match warnings and helpful integrations. | ![GitHub stars](https://img.shields.io/github/stars/lloydmeta/enumeratum) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/lloydmeta/enumeratum)
-[log4s](https://github.com/Log4s/log4s) | High-performance SLF4J wrapper for Scala. | ![GitHub stars](https://img.shields.io/github/stars/Log4s/log4s) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Log4s/log4s)
 [**izumi**](https://github.com/7mind/izumi) | Productivity-oriented collection of lightweight fancy stuff for Scala toolchain | ![GitHub stars](https://img.shields.io/github/stars/7mind/izumi) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/7mind/izumi)
 [**Monocle**](https://github.com/optics-dev/Monocle) | Optics library for Scala | ![GitHub stars](https://img.shields.io/github/stars/optics-dev/Monocle) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/optics-dev/Monocle)
 [**nscala-time**](https://github.com/nscala-time/nscala-time) | A new Scala wrapper for Joda Time based on scala-time | ![GitHub stars](https://img.shields.io/github/stars/nscala-time/nscala-time) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/nscala-time/nscala-time)
@@ -396,8 +388,6 @@ Name | Description | GitHub Activity
 [**scalaz**](https://github.com/scalaz/scalaz) | Principled Functional Programming in Scala | ![GitHub stars](https://img.shields.io/github/stars/scalaz/scalaz) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/scalaz/scalaz)
 [**scribe**](https://github.com/outr/scribe) | The fastest logging library in the world. Built from scratch in Scala and programmatically configurable. | ![GitHub stars](https://img.shields.io/github/stars/outr/scribe) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/outr/scribe)
 [**shapeless**](https://github.com/milessabin/shapeless) | Generic programming for Scala | ![GitHub stars](https://img.shields.io/github/stars/milessabin/shapeless) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/milessabin/shapeless)
-[**simulacrum**](https://github.com/typelevel/simulacrum) | First class syntax support for type classes in Scala | ![GitHub stars](https://img.shields.io/github/stars/typelevel/simulacrum) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/typelevel/simulacrum)
-[squid](https://github.com/epfldata/squid) | Squid – type-safe metaprogramming and compilation framework for Scala | ![GitHub stars](https://img.shields.io/github/stars/epfldata/squid) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/epfldata/squid)
 [**tinylog**](https://github.com/tinylog-org/tinylog) | tinylog is a lightweight logging framework for Java, Kotlin, Scala, and Android | ![GitHub stars](https://img.shields.io/github/stars/tinylog-org/tinylog) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/tinylog-org/tinylog)
 [**util**](https://github.com/twitter/util) | Wonderful reusable code from Twitter | ![GitHub stars](https://img.shields.io/github/stars/twitter/util) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/twitter/util)
 
@@ -415,7 +405,6 @@ Name | Description | GitHub Activity
 [mailgun4s](https://github.com/outr/mailgun4s) | Mailgun API implementation in Scala | ![GitHub stars](https://img.shields.io/github/stars/outr/mailgun4s) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/outr/mailgun4s)
 [managerial](https://github.com/dvgica/managerial) | A zero-dependency Scala library for managing resources monadically | ![GitHub stars](https://img.shields.io/github/stars/dvgica/managerial) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/dvgica/managerial)
 [media4s](https://github.com/outr/media4s) | Scala command-line wrapper around ffmpeg, ffprobe, ImageMagick, and other tools relating to media. | ![GitHub stars](https://img.shields.io/github/stars/outr/media4s) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/outr/media4s)
-[play-swagger](https://github.com/iheartradio/play-swagger) | Swagger spec generator for play framework | ![GitHub stars](https://img.shields.io/github/stars/iheartradio/play-swagger) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/iheartradio/play-swagger)
 [PPrint](https://github.com/com-lihaoyi/PPrint) | Pretty-printing value, types and type-signatures in Scala | ![GitHub stars](https://img.shields.io/github/stars/com-lihaoyi/PPrint) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/com-lihaoyi/PPrint)
 [**pureconfig**](https://github.com/pureconfig/pureconfig) | A boilerplate-free library for loading configuration files | ![GitHub stars](https://img.shields.io/github/stars/pureconfig/pureconfig) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/pureconfig/pureconfig)
 [service-chassis](https://github.com/allawala/service-chassis) | A scala chassis to get your applications and services bootstrapped quickly | ![GitHub stars](https://img.shields.io/github/stars/allawala/service-chassis) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/allawala/service-chassis)
@@ -477,6 +466,7 @@ Name | Description | GitHub Activity
 [**parboiled2**](https://github.com/sirthias/parboiled2) | A macro-based PEG parser generator for Scala 2.10+ | ![GitHub stars](https://img.shields.io/github/stars/sirthias/parboiled2) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/sirthias/parboiled2)
 [**scala-parser-combinators**](https://github.com/scala/scala-parser-combinators) | simple combinator-based parsing for Scala. formerly part of the Scala standard library, now a separate community-maintained module | ![GitHub stars](https://img.shields.io/github/stars/scala/scala-parser-combinators) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/scala/scala-parser-combinators)
 [cats-parse](https://github.com/typelevel/cats-parse) | A parsing library for the cats ecosystem | ![GitHub stars](https://img.shields.io/github/stars/typelevel/cats-parse) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/typelevel/cats-parse)
+[scallion](https://github.com/epfl-lara/scallion) | LL(1) parser combinators in Scala | ![GitHub stars](https://img.shields.io/github/stars/epfl-lara/scallion) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/epfl-lara/scallion)
 
 ### Sbt plugins
 
@@ -484,7 +474,6 @@ Name | Description | GitHub Activity
 
 Name | Description | GitHub Activity
 ---- | ----------- | ---------------
-[**better-monadic-for**](https://github.com/oleg-py/better-monadic-for) | Desugaring scala `for` without implicit `withFilter`s | ![GitHub stars](https://img.shields.io/github/stars/oleg-py/better-monadic-for) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/oleg-py/better-monadic-for)
 [**coursier**](https://github.com/coursier/coursier) | Pure Scala Artifact Fetching | ![GitHub stars](https://img.shields.io/github/stars/coursier/coursier) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/coursier/coursier)
 [mdoc](https://github.com/scalameta/mdoc) | Typechecked markdown documentation for Scala | ![GitHub stars](https://img.shields.io/github/stars/scalameta/mdoc) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/scalameta/mdoc)
 [sbt-api-mappings](https://github.com/ThoughtWorksInc/sbt-api-mappings) | An Sbt plugin that fills apiMappings for common Scala libraries. | ![GitHub stars](https://img.shields.io/github/stars/ThoughtWorksInc/sbt-api-mappings) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/ThoughtWorksInc/sbt-api-mappings)
@@ -492,11 +481,10 @@ Name | Description | GitHub Activity
 [**sbt-buildinfo**](https://github.com/sbt/sbt-buildinfo) | I know this because build.sbt knows this. | ![GitHub stars](https://img.shields.io/github/stars/sbt/sbt-buildinfo) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/sbt/sbt-buildinfo)
 [sbt-ci-release](https://github.com/sbt/sbt-ci-release) | sbt plugin to automate Sonatype releases from GitHub Actions | ![GitHub stars](https://img.shields.io/github/stars/sbt/sbt-ci-release) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/sbt/sbt-ci-release)
 [sbt-dependency-check](https://github.com/albuch/sbt-dependency-check) | SBT Plugin for OWASP DependencyCheck. Monitor your dependencies and report if there are any publicly known vulnerabilities (e.g. CVEs). :rainbow: | ![GitHub stars](https://img.shields.io/github/stars/albuch/sbt-dependency-check) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/albuch/sbt-dependency-check)
-[**sbt-docker**](https://github.com/marcuslonnberg/sbt-docker) | Create Docker images directly from sbt | ![GitHub stars](https://img.shields.io/github/stars/marcuslonnberg/sbt-docker) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/marcuslonnberg/sbt-docker)
-[sbt-doctest](https://github.com/tkawachi/sbt-doctest) | Doctest for scala | ![GitHub stars](https://img.shields.io/github/stars/tkawachi/sbt-doctest) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/tkawachi/sbt-doctest)
+[**sbt-docker**](https://github.com/marcus-drake/sbt-docker) | Create Docker images directly from sbt | ![GitHub stars](https://img.shields.io/github/stars/marcus-drake/sbt-docker) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/marcus-drake/sbt-docker)
+[sbt-doctest](https://github.com/sbt-doctest/sbt-doctest) | Doctest for scala | ![GitHub stars](https://img.shields.io/github/stars/sbt-doctest/sbt-doctest) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/sbt-doctest/sbt-doctest)
 [sbt-ghpages](https://github.com/sbt/sbt-ghpages) | git, site and ghpages support for sbt projects. | ![GitHub stars](https://img.shields.io/github/stars/sbt/sbt-ghpages) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/sbt/sbt-ghpages)
 [sbt-header](https://github.com/sbt/sbt-header) | sbt-header is an sbt plugin for creating file headers, e.g. copyright headers | ![GitHub stars](https://img.shields.io/github/stars/sbt/sbt-header) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/sbt/sbt-header)
-[sbt-hepek](https://github.com/sake92/sbt-hepek) | Sbt plugin for rendering Scala objects to files. And more! | ![GitHub stars](https://img.shields.io/github/stars/sake92/sbt-hepek) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/sake92/sbt-hepek)
 [sbt-ide-settings](https://github.com/JetBrains/sbt-ide-settings) | SBT plugin for tweaking various IDE settings | ![GitHub stars](https://img.shields.io/github/stars/JetBrains/sbt-ide-settings) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/JetBrains/sbt-ide-settings)
 [**sbt-jmh**](https://github.com/sbt/sbt-jmh) | "Trust no one, bench everything." - sbt plugin for JMH (Java Microbenchmark Harness) | ![GitHub stars](https://img.shields.io/github/stars/sbt/sbt-jmh) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/sbt/sbt-jmh)
 [sbt-microsites](https://github.com/47degrees/sbt-microsites) | An sbt plugin to create awesome microsites for your project | ![GitHub stars](https://img.shields.io/github/stars/47degrees/sbt-microsites) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/47degrees/sbt-microsites)
@@ -505,17 +493,18 @@ Name | Description | GitHub Activity
 [sbt-pack](https://github.com/xerial/sbt-pack) | A sbt plugin for creating distributable Scala packages. | ![GitHub stars](https://img.shields.io/github/stars/xerial/sbt-pack) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/xerial/sbt-pack)
 [sbt-pgp](https://github.com/sbt/sbt-pgp) | PGP plugin for sbt | ![GitHub stars](https://img.shields.io/github/stars/sbt/sbt-pgp) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/sbt/sbt-pgp)
 [**sbt-release**](https://github.com/sbt/sbt-release) | A release plugin for sbt | ![GitHub stars](https://img.shields.io/github/stars/sbt/sbt-release) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/sbt/sbt-release)
+[**sbt-revolver**](https://github.com/spray/sbt-revolver) | An SBT plugin for dangerously fast development turnaround in Scala | ![GitHub stars](https://img.shields.io/github/stars/spray/sbt-revolver) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/spray/sbt-revolver)
 [sbt-scala-js-map](https://github.com/ThoughtWorksInc/sbt-scala-js-map) | A Sbt plugin that configures source mapping for Scala.js projects hosted on Github | ![GitHub stars](https://img.shields.io/github/stars/ThoughtWorksInc/sbt-scala-js-map) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/ThoughtWorksInc/sbt-scala-js-map)
 [sbt-scalafmt](https://github.com/scalameta/sbt-scalafmt) | sbt plugin for Scalafmt | ![GitHub stars](https://img.shields.io/github/stars/scalameta/sbt-scalafmt) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/scalameta/sbt-scalafmt)
 [**sbt-scoverage**](https://github.com/scoverage/sbt-scoverage) | sbt plugin for scoverage | ![GitHub stars](https://img.shields.io/github/stars/scoverage/sbt-scoverage) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/scoverage/sbt-scoverage)
-[sbt-site](https://github.com/sbt/sbt-site) | Site generation for sbt | ![GitHub stars](https://img.shields.io/github/stars/sbt/sbt-site) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/sbt/sbt-site)
 [sbt-sonatype](https://github.com/xerial/sbt-sonatype) | A sbt plugin for publishing Scala/Java projects to the Maven central. | ![GitHub stars](https://img.shields.io/github/stars/xerial/sbt-sonatype) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/xerial/sbt-sonatype)
 [sbt-unidoc](https://github.com/sbt/sbt-unidoc) | sbt plugin to create a unified Scaladoc or Javadoc API document across multiple subprojects. | ![GitHub stars](https://img.shields.io/github/stars/sbt/sbt-unidoc) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/sbt/sbt-unidoc)
 [**sbt-updates**](https://github.com/rtimush/sbt-updates) | sbt plugin that can check Maven and Ivy repositories for dependency updates | ![GitHub stars](https://img.shields.io/github/stars/rtimush/sbt-updates) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/rtimush/sbt-updates)
 [**sbt-eclipse**](https://github.com/sbt/sbt-eclipse) | Plugin for sbt to create Eclipse project definitions | ![GitHub stars](https://img.shields.io/github/stars/sbt/sbt-eclipse) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/sbt/sbt-eclipse)
 [splain](https://github.com/tek/splain) | better implicit errors for scala | ![GitHub stars](https://img.shields.io/github/stars/tek/splain) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/tek/splain)
-[xsbt-web-plugin](https://github.com/earldouglas/xsbt-web-plugin) | Servlet support for sbt | ![GitHub stars](https://img.shields.io/github/stars/earldouglas/xsbt-web-plugin) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/earldouglas/xsbt-web-plugin)
+[sbt-war](https://github.com/earldouglas/sbt-war) | Package and run WAR files from sbt | ![GitHub stars](https://img.shields.io/github/stars/earldouglas/sbt-war) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/earldouglas/sbt-war)
 [sbt-git](https://github.com/sbt/sbt-git) | A git plugin for sbt | ![GitHub stars](https://img.shields.io/github/stars/sbt/sbt-git) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/sbt/sbt-git)
+[sbt-git](https://github.com/zero-deps/sbt-git) | Use git-describe as a version and run git commands inside SBT shell | ![GitHub stars](https://img.shields.io/github/stars/zero-deps/sbt-git) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/zero-deps/sbt-git)
 
 ### XML / HTML
 
@@ -524,7 +513,6 @@ Name | Description | GitHub Activity
 Name | Description | GitHub Activity
 ---- | ----------- | ---------------
 [**scala-scraper**](https://github.com/ruippeixotog/scala-scraper) | A Scala library for scraping content from HTML pages | ![GitHub stars](https://img.shields.io/github/stars/ruippeixotog/scala-scraper) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/ruippeixotog/scala-scraper)
-[xs4s](https://github.com/ScalaWilliam/xs4s) | XML Streaming for Scala including FS2/cats support | ![GitHub stars](https://img.shields.io/github/stars/ScalaWilliam/xs4s) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/ScalaWilliam/xs4s)
 [phobos](https://github.com/valentiay/phobos) | Efficient and expressive XML data-binding library for Scala | ![GitHub stars](https://img.shields.io/github/stars/valentiay/phobos) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/valentiay/phobos)
 
 ### Markdown
@@ -545,7 +533,6 @@ Name | Description | GitHub Activity
 
 Name | Description | GitHub Activity
 ---- | ----------- | ---------------
-[**akka-quartz-scheduler**](https://github.com/enragedginger/akka-quartz-scheduler) | Quartz Extension and utilities for cron-style scheduling in Akka | ![GitHub stars](https://img.shields.io/github/stars/enragedginger/akka-quartz-scheduler) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/enragedginger/akka-quartz-scheduler)
 
 ### Templating
 
@@ -570,11 +557,10 @@ Name | Description | GitHub Activity
 [**gitbucket**](https://github.com/gitbucket/gitbucket) | A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility | ![GitHub stars](https://img.shields.io/github/stars/gitbucket/gitbucket) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/gitbucket/gitbucket)
 [**giter8**](https://github.com/foundweekends/giter8) | a command line tool to apply templates defined on GitHub  | ![GitHub stars](https://img.shields.io/github/stars/foundweekends/giter8) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/foundweekends/giter8)
 [**metals**](https://github.com/scalameta/metals) | Scala language server with rich IDE features 🚀  | ![GitHub stars](https://img.shields.io/github/stars/scalameta/metals) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/scalameta/metals)
-[**mill**](https://github.com/com-lihaoyi/mill) | Mill is a fast JVM build tool that supports Java and Scala. 2-3x faster than Gradle and 5-10x faster than Maven for common workflows, Mill aims to make your project’s build process performant, maintainable, and flexible | ![GitHub stars](https://img.shields.io/github/stars/com-lihaoyi/mill) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/com-lihaoyi/mill)
+[**mill**](https://github.com/com-lihaoyi/mill) | Mill is a fast JVM build tool that supports Java, Scala, Kotlin and many other languages. 3-6x faster than Maven or Gradle for common workflows, Mill aims to make your project’s build process performant, maintainable, and flexible | ![GitHub stars](https://img.shields.io/github/stars/com-lihaoyi/mill) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/com-lihaoyi/mill)
 [**sbt**](https://github.com/sbt/sbt) | sbt, the interactive build tool | ![GitHub stars](https://img.shields.io/github/stars/sbt/sbt) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/sbt/sbt)
 [**scalafix**](https://github.com/scalacenter/scalafix) | Refactoring and linting tool for Scala | ![GitHub stars](https://img.shields.io/github/stars/scalacenter/scalafix) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/scalacenter/scalafix)
 [Scalafmt](https://scalameta.org/scalafmt/) | Code formatter for Scala |
-[**scalariform**](https://github.com/scala-ide/scalariform) | Scala source code formatter | ![GitHub stars](https://img.shields.io/github/stars/scala-ide/scalariform) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/scala-ide/scalariform)
 [**scapegoat**](https://github.com/scapegoat-scala/scapegoat) | Scala compiler plugin for static code analysis | ![GitHub stars](https://img.shields.io/github/stars/scapegoat-scala/scapegoat) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/scapegoat-scala/scapegoat)
 [**wartremover**](https://github.com/wartremover/wartremover) | Flexible Scala code linting tool | ![GitHub stars](https://img.shields.io/github/stars/wartremover/wartremover) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/wartremover/wartremover)
 [scala2plantuml](https://github.com/BotTech/scala2plantuml) | Scala2PlantUML generates PlantUML diagrams from Scala code. | ![GitHub stars](https://img.shields.io/github/stars/BotTech/scala2plantuml) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/BotTech/scala2plantuml)
@@ -588,7 +574,7 @@ Name | Description | GitHub Activity
 [**geotrellis**](https://github.com/locationtech/geotrellis) | GeoTrellis is a geographic data processing engine for high performance applications. | ![GitHub stars](https://img.shields.io/github/stars/locationtech/geotrellis) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/locationtech/geotrellis)
 [osm4scala](https://github.com/simplexspatial/osm4scala) | Scala and Spark library focused on reading OpenStreetMap Pbf files. | ![GitHub stars](https://img.shields.io/github/stars/simplexspatial/osm4scala) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/simplexspatial/osm4scala)
 [rtree2d](https://github.com/plokhotnyuk/rtree2d) | RTree2D is a 2D immutable R-tree for ultra-fast nearest and intersection queries in plane and spherical coordinates | ![GitHub stars](https://img.shields.io/github/stars/plokhotnyuk/rtree2d) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/plokhotnyuk/rtree2d)
-[stac4s](https://github.com/stac-utils/stac4s) | a scala library with primitives to build applications using the SpatioTemporal Asset Catalogs specification | ![GitHub stars](https://img.shields.io/github/stars/stac-utils/stac4s) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/stac-utils/stac4s)
+[stac4s](https://github.com/stac-utils/stac4s) | A Scala library with primitives to build applications using the SpatioTemporal Asset Catalogs specification | ![GitHub stars](https://img.shields.io/github/stars/stac-utils/stac4s) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/stac-utils/stac4s)
 [franklin](https://github.com/azavea/franklin) | A STAC/OGC API Features Web Service | ![GitHub stars](https://img.shields.io/github/stars/azavea/franklin) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/azavea/franklin)
 
 ### Devops
